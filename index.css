@@ -1,0 +1,56 @@
+#todoo{
+color: brown;
+position: absolute;
+left: 7%;
+top: 25%;
+
+}
+#headd{
+background-color: bisque;
+position: relative;
+
+height: 140px;
+
+}
+
+#pic{
+height: 70px;
+width: 70px;
+position: absolute;
+left: 45%;
+top:20%;
+
+}
+#lisst{
+
+    
+    width: 150px;
+    position: absolute;
+    left: 80%;
+    top:20% ;
+    
+}
+#tablee{
+position: absolute;
+left: 30%;
+top: 30%;
+height: 40%;
+width:30% ;
+}
+
+#supp{
+position: absolute;
+bottom: 10%;
+left: 40%;
+
+}
+
+
+
+#copyy{ position: absolute;
+    bottom:4% ;
+    left: 40%;
+
+
+
+}
