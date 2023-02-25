@@ -1,0 +1,97 @@
+#hhead{
+background-color: bisque;
+position: relative;
+height: 140px;
+}
+#ttodo{
+color: brown;
+position: absolute;
+top: 25%;
+left: 7%;
+}
+#ppic{
+    height: 70px;
+    width: 70px;
+    position: absolute;
+    left: 45%;
+    top: 25%;
+}
+#llist{
+    position: absolute;
+    width: 150px;
+    left: 80%;
+    top: 20%;
+}
+#pp{
+position: absolute;
+left: 30%;
+color: blue;
+top: 30%;
+}
+
+
+
+
+#nname{
+position: absolute;
+left: 30%;
+top: 50%;
+
+}
+
+#in-nname{
+position: absolute;
+left: 40%;
+top: 50%;
+}
+
+#eml{
+    position: absolute;
+    left: 30%;
+    top: 60%;
+
+
+}
+#in-eml{
+position: absolute;
+left: 40%;
+top: 60%;
+
+
+}
+#msg{
+    position: absolute;
+    left: 30%;
+    top: 70%;
+}
+#in-msg{
+position: absolute;
+left: 40%;
+top: 70%;
+height:40px ;
+
+
+}
+
+
+
+
+
+
+#btn{
+color: blue;
+position: absolute;
+top: 80%;
+left: 45%;
+}
+#sup{
+position: absolute;
+left: 40%;
+top: 90%;
+}
+#cccopy{
+    position: absolute;
+    left: 40%;
+    top:92%;
+    
+}
