@@ -19,11 +19,29 @@ else
     title = ""
 } 
 
- let msg=confirm("do you want to skip welcoming message")
-if (msg!=true){
+ let message=confirm("do you want to skip welcoming message")
+if (message!=true){
 alert("welcom " + title + " "+namee)
-
-
-
-
 }
+//         lab         //
+  let userAnswers = [] 
+
+  userAnswers [0]= prompt("are you a student")
+  userAnswers [1]= prompt("do you live in amman")
+  userAnswers [2]= prompt("do you have a labtop")
+
+
+  for (let i = 0 ; i < userAnswers.length ; i++){
+if (userAnswers [i] == ""){
+    userAnswers [i]= "invalid"
+}
+  }
+
+
+ console.log(userAnswers)
+
+
+
+  
+
+
